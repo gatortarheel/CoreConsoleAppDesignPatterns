@@ -1,0 +1,11 @@
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\bin\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.deps.json
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\bin\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.runtimeconfig.json
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\bin\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.runtimeconfig.dev.json
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\bin\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.dll
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\bin\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.pdb
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.AssemblyInfo.cs
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.dll
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.pdb
+C:\Users\rsmith\source\repos\CoreConsoleAppDesignPatterns\CoreConsoleAppDesignPatterns\obj\Debug\netcoreapp2.0\CoreConsoleAppDesignPatterns.csprojAssemblyReference.cache
